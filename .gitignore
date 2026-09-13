@@ -9,3 +9,6 @@ Tutorial/model/
 
 # Local research datasets
 data/
+
+# Generated research outputs (SHAP arrays, plots, CSVs from analysis runs)
+outputs/
