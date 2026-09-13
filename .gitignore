@@ -6,3 +6,6 @@ __pycache__/
 Tutorial/audio/
 Tutorial/outputs/
 Tutorial/model/
+
+# Local research datasets
+data/
